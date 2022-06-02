@@ -1,8 +1,8 @@
 # TagHelperJetBrainsAnnotationsSample
 
-This repository is a sample for ASP.NET Core Tag Helpers together with the JetBrains.Annotations package.
+This repository is a sample for [ASP.NET Core Tag Helpers](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-6.0) together with the [JetBrains.Annotations package](https://www.nuget.org/packages/JetBrains.Annotations/).
 
-JetBrains.Annotations provides code completion for the Tag Helper:
+JetBrains.Annotations provides code completion for the Tag Helper in [Rider](https://www.jetbrains.com/rider/) and [ReSharper](https://www.jetbrains.com/resharper/):
 
 ![img.png](assets/img.png)
 
